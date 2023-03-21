@@ -1,0 +1,30 @@
+{
+  "name": "query-terminal",
+  "version": "0.0.1",
+  "description": "NodeJS module to query terminal for terminfo capabilities using XTGETTCAP",
+  "keywords": [
+    "DCS",
+    "query",
+    "terminal",
+    "XTGETTCAP"
+  ],
+  "homepage": "https://github.com/connorjs/query-terminal#readme",
+  "bugs": {
+    "url": "https://github.com/connorjs/query-terminal/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Connor Sullivan",
+    "email": "dev.connorjs@gmail.com",
+    "url": "https://github.com/connorjs"
+  },
+  "main": "query-terminal.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorjs/query-terminal.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
