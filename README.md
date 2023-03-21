@@ -2,6 +2,15 @@
 
 > Query for terminfo capabilities using XTGETTCAP
 
+## Usage
+
+```js
+import { queryTerminal } from "query-terminal";
+
+const answer = await queryTerminal(`<some capability>`);
+console.log(answer);
+```
+
 ## Context
 
 The [supports-hyperlink] issue about [Kitty support][kitty-support] led me to

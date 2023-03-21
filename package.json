@@ -19,6 +19,9 @@
     "url": "https://github.com/connorjs"
   },
   "main": "query-terminal.js",
+  "exports": {
+    ".": "./query-terminal.js"
+  },
   "type": "module",
   "repository": {
     "type": "git",
