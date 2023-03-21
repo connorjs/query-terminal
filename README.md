@@ -2,6 +2,12 @@
 
 > Query for terminfo capabilities using XTGETTCAP
 
+## Install
+
+```shell
+npm install query-terminal
+```
+
 ## Usage
 
 ```js
